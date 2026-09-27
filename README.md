@@ -30,17 +30,16 @@ Which factors drive repeat purchases and loyalty?
 📊 Visual Dashboard & Key Insights
 1. Demographic & Behavioral OverviewThe customer base skews young-to-middle-aged, with Beauty & Personal Care and Clothing & Fashion standing out as the strongest product categories.   
 ![demographic_overview Chart](demographic_overview.png)
-![kmeans_clusters Chart](kmeans_clusters_pca.jpeg)
-![reporting_dashboard Chart](reporting_dashboard.png)
+
+
+2. Customer Segmentation ProfilesUsing a custom rule-based segmentation, customers were categorized into At-Risk, Occasional Shoppers, and Frequent Buyers, revealing that over 56% of the customer base falls into the At-Risk category. 
 ![segment_sizes Chart](segment_sizes.png)
 
+3. K-Means Clustering & PCA ValidationK-Means clustering ($k=3$) and PCA projection were used to independently validate behavioral groupings, highlighting age and trust-orientation as key independent axes.   
+![kmeans_clusters Chart](kmeans_clusters_pca.jpeg)
 
-
-3. Customer Segmentation ProfilesUsing a custom rule-based segmentation, customers were categorized into At-Risk, Occasional Shoppers, and Frequent Buyers, revealing that over 56% of the customer base falls into the At-Risk category. 
-
-4. K-Means Clustering & PCA ValidationK-Means clustering ($k=3$) and PCA projection were used to independently validate behavioral groupings, highlighting age and trust-orientation as key independent axes.   
-
-5. Recommendation & Satisfaction Correlation HeatmapA correlation heatmap confirms that traditional recommendation helpfulness and review reliance metrics show little direct linear link to overall shopping satisfaction
+4. Recommendation & Satisfaction Correlation HeatmapA correlation heatmap confirms that traditional recommendation helpfulness and review reliance metrics show little direct linear link to overall shopping satisfaction
+![reporting_dashboard Chart](reporting_dashboard.png)
 
 💡**Key Findings & Business Recommendations**
 
