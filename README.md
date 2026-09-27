@@ -29,7 +29,11 @@ Which factors drive repeat purchases and loyalty?
 
 📊 Visual Dashboard & Key Insights
 1. Demographic & Behavioral OverviewThe customer base skews young-to-middle-aged, with Beauty & Personal Care and Clothing & Fashion standing out as the strongest product categories.   
-demographic_overview.png
+![demographic_overview Chart](demographic_overview.png)
+![kmeans_clusters Chart](kmeans_clusters_pca.jpeg)
+![reporting_dashboard Chart](reporting_dashboard.png)
+![segment_sizes Chart](segment_sizes.png)
+
 
 
 3. Customer Segmentation ProfilesUsing a custom rule-based segmentation, customers were categorized into At-Risk, Occasional Shoppers, and Frequent Buyers, revealing that over 56% of the customer base falls into the At-Risk category. 
